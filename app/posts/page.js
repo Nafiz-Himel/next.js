@@ -1,4 +1,4 @@
-import getAllPosts from "@/lib/getAllPosts";
+import getAllPosts from "@/lib/getAllPost";
 import Link from "next/link";
 
 export default async function Posts() {

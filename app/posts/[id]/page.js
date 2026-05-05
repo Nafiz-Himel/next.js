@@ -1,5 +1,5 @@
 import Comments from "@/app/components/Comments";
-import getAllPosts from "@/lib/getAllPosts";
+import getAllPosts from "@/lib/getAllPost";
 import getPost from "@/lib/getPost";
 import getPostComments from "@/lib/getPostComment";
 import { Suspense } from "react";
